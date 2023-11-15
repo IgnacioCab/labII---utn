@@ -54,8 +54,7 @@ class Curso {
     }
 
     // Método para agregar un estudiante al curso
-    public void agregarEstudiante(Estudiante estudiante) {
-        estudiantes.add(estudiante);
+    public void agregarEstudiante(Estudiante estudiante) {estudiantes.add(estudiante);
     }
 
     // Método modificado para eliminar un estudiante del curso
